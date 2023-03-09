@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#/!bin/bash
-cd
-=======
 #!/bin/bash
 cd -
->>>>>>> 40c8ad09a33cfb3c027221c11d6bfdd3a0f9a5aa
